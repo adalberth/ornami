@@ -1,0 +1,19 @@
+{
+  "name": "ornami",
+  "version": "0.0.1",
+  "description": "Simple modular framework for non-DOM apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adalberth/ornami.git"
+  },
+  "author": "ornami",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/adalberth/ornami/issues"
+  },
+  "homepage": "https://github.com/adalberth/ornami#readme"
+}
